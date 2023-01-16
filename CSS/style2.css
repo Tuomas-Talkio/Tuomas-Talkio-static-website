@@ -1,0 +1,23 @@
+section{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.main{
+    display: flex;
+}
+
+article:nth-of-type(3) {
+    flex: 9;
+}
+
+.flexContainer{
+    display: flex;
+    background-color: bisque;
+}
+
+.flexGrowContainer{
+    display: flex;
+    background-color: blueviolet;
+}
