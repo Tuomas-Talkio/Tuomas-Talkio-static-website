@@ -13,11 +13,11 @@ article:nth-of-type(3) {
 }
 
 .flexContainer{
-    display: flex;
     background-color: bisque;
+    display: flex;
 }
 
 .flexGrowContainer{
-    display: flex;
     background-color: blueviolet;
+    display: flex;
 }
